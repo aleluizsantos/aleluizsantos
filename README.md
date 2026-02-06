@@ -1,71 +1,68 @@
-<h1>👋 Olá! Sou um Desenvolvedor Full Stack</h1>
+# 👋 Olá, eu sou Alessandro Santos
 
-## Bacharel em Sistema de Informação
+### Desenvolvedor Full Stack | Bacharel em Sistemas de Informação
 
-<p>
-  Sou apaixonado por tecnologia e movido pelo desafio de transformar ideias em soluções práticas, inteligentes e funcionais.
-  Tenho experiência com desenvolvimento <strong>web e mobile</strong>, criando aplicações modernas com foco em performance, usabilidade e escalabilidade.
-</p>
+Sou desenvolvedor full stack com foco em **soluções web e mobile escaláveis**, atuando desde a concepção até a entrega de sistemas completos.  
+Tenho experiência em **arquitetura de aplicações, integrações com APIs externas, pagamentos online e automação de processos**, sempre priorizando performance, segurança e usabilidade.
 
 ---
 
-### 🚀 Tecnologias que uso no dia a dia:
+## 🚀 Tecnologias & Ferramentas
 
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Banco de Dados & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 🧩 Áreas de atuação:
+## 🧩 Áreas de Atuação
 
-- Sistemas de gestão e automação
-- Plataformas de eventos e inscrições online
-- Aplicações mobile para negócios e produtividade
-- Integrações com APIs externas e gateways de pagamento (ex: EfiPay/Gerencianet)
-- Integrações com sistemas de cronometragem esportiva (ex: Wiclax via FTP)
-
-### 🛠️ Projetos em destaque:
-
-- 🎫 [Sistema de Inscrições para Eventos Esportivos](https://www.tnvteam.com.br)
-- 📦 [Plataforma de Gestão de Cupons e Vendas](https://www.givplus.com.br)
-- 📱 [Aplicativo Mobile](https://github.com/aleluizsantos/serginLanche-Mobile)
-- ✨ [Frontend Nextjs](https://www.ldincorporadoracoworking.com.br)
+- Desenvolvimento de **sistemas de gestão e automação**
+- Plataformas de **eventos esportivos e inscrições online**
+- Aplicações **mobile corporativas**
+- Integração com **gateways de pagamento** (EfiPay / Gerencianet)
+- Integração com **sistemas de cronometragem esportiva** (Wiclax via FTP)
+- APIs RESTful e arquitetura backend escalável
 
 ---
 
-### 📫 Vamos nos conectar?
+## 🛠️ Projetos em Destaque
 
-- [LinkedIn](https://www.linkedin.com/in/alessandrolsantos/)
-- 📧 Email: aleluizsantos@gmail.com
+🎫 **Sistema de Inscrições para Eventos Esportivos**  
+🔗 https://www.tnvteam.com.br  
+Plataforma completa para gestão de eventos, atletas, pagamentos e resultados.
 
-  
- <div>
-<!-- <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-<a href="https://instagram.com/aleluiz.santos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!--<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-<a href = "mailto:aleluizsantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/alessandrolsantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+📦 **Plataforma de Gestão de Cupons e Vendas**  
+🔗 https://www.givplus.com.br  
+Sistema de vendas com controle de cupons, promoções e fluxo financeiro.
 
+📱 **Aplicativo Mobile**  
+🔗 https://github.com/aleluizsantos/serginLanche-Mobile  
+Aplicação mobile desenvolvida em React Native para pedidos e gestão.
 
-<!--
-**aleluizsantos/aleluizsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ **Frontend Institucional (Next.js)**  
+🔗 https://www.ldincorporadoracoworking.com.br  
+Site institucional otimizado para SEO e performance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato & Redes
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/alessandrolsantos/)
+- 📧 Email: **aleluizsantos@gmail.com**
+- 📸 [Instagram](https://instagram.com/aleluiz.santos)
+
+---
+
+⭐ Se curtir algum projeto, não esqueça de deixar uma estrela!
